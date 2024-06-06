@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to Coding from Scratch, here I'll share my journey into the 
+the exciting world of coding and technology. Join me as I navigate through 
+the basics of programming, explore innovative concepts, and document the
+challenges of my learning process. Let's embark on this coding adventure together!
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
