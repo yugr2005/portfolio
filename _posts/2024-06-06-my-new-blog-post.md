@@ -1,11 +1,17 @@
 ## This is my first blog post
-Welcome to [Blog Name], where a first-year computer science
-student shares their journey into the exciting world of coding 
-and technology. Join me as I navigate through the basics of programming,
-explore innovative concepts, and document the challenges and triumphs
-of my learning process. Whether you're a fellow beginner looking
-for inspiration or a seasoned pro interested in following a fresh
-perspective, this blog is for you. Let's embark on this coding adventure together!
+Today, I learned about one of the types of Data Structures called HashMaps. HashMaps are
+basically consisting of a key and its value (key-value pairs). 
+
+For instance, if you remember we used to get one roll number when we were in the school 
+which was used for many academic purposes. So, we can say that in this case, the roll number
+is the key and the student to whom it is being allocated is the value. Therefore, whenever 
+we need any details of a particular student we can easily get that information through
+their key. 
+
+Such data structure makes it easier for the user to quickly retrieve data from a database or
+data structure. Moreover, having a unique key to access data directly, rather than searching 
+through all data makes HashMaps faster than other data structures (time complexity-O(1)). 
+
 
  ```tsql
  SELECT *
