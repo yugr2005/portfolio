@@ -1,4 +1,4 @@
-## This is my first blog post
+## HashMaps
 Today, I learned about one of the types of Data Structures called HashMaps. HashMaps are
 basically consisting of a key and its value (key-value pairs). 
 
