@@ -16,9 +16,5 @@ through all data makes HashMaps faster than other data structures (time complexi
 
 
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
- ```
+
 
