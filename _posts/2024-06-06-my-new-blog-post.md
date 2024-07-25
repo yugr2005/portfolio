@@ -13,9 +13,9 @@ data structure. Moreover, having a unique key to access data directly, rather th
 through all data makes HashMaps faster than other data structures (time complexity-O(1)). 
 
 
-<figure>
+<figure style="text-align: center;">
   <img src="https://raw.githubusercontent.com/yugr2005/portfolio/main/_posts/Blog-1.png" alt="Function of HashMaps" width="800">
-  <figcaption>Function of HashMaps</figcaption>
+  <figcaption style="text-align: center; font-size: 16px;">Function of HashMaps</figcaption>
 </figure>
 
 
