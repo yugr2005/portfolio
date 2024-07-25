@@ -12,7 +12,7 @@ Such data structure makes it easier for the user to quickly retrieve data from a
 data structure. Moreover, having a unique key to access data directly, rather than searching 
 through all data makes HashMaps faster than other data structures (time complexity-O(1)). 
 
-<img src="/portfolio/_posts/Blog-1.png" alt="Function of HashMaps" width="800">
+<img src="https://raw.githubusercontent.com/yugr2005/portfolio/main/_posts/Blog-1.png" alt="Function of HashMaps" width="800">
 
 
 
