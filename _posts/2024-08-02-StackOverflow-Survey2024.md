@@ -16,25 +16,25 @@ Secondly, 83.9% of developers use technical documentation, 80.3% rely on Stack O
 #### 2. Popular Technologies and Tools
  Every year, there are many changes in the tools and technologies that developers are using. It is like when you just think you have mastered one thing, another cool tech comes along(never-ending). But that is where reading such surveys helps us highlight which tools are actually worth our time and which ones are just hype.
  
-- ##### Programming, Scripting, and Markup Languages:
+- #### Programming, Scripting, and Markup Languages:
   The survey highlights the most popular and beneficial programming languages for developers. JavaScript tops the list with 62.3% usage, seriously, it is everywhere—in both front-end and back-end development. HTML/CSS at 52.9% makes sense, someone has to make those web pages look good. Python, with a 51% usage rate, is valued for its readability and flexibility, making it perfect for beginners and widely used in web development and data science. SQL, also at 51%, is vital for database management and backend development. Now, I was thinking about TypeScript being more popular but it ended up with 38.5%, I believe due to some of its complexities. Still, it is definitely worth learning once you get comfortable with JavaScript. If you are like me and just starting, knowing which languages to focus on can save you a lot of time and headaches. Python, and SQL are not only widely used but also highly admired, making them valuable skills for both beginners and experienced developers in the tech industry.
 
-- ##### Databases:
+- #### Databases:
   It is important to talk about databases also. PostgreSQL is currently used by 48.7% of developers, making it the most popular database for the second year in a row. MySQL follows closely with 40.3% usage. Here is the interesting part, beginners like us who are learning to code are more likely to choose MySQL (44.9%) over PostgreSQL (33%). Therefore, in my opinion, MySQL is simpler to get started with to build a strong foundation in database management, and consider diving into PostgreSQL as you advance and need more powerful features.
 
-- ##### Cloud Platforms:
+- #### Cloud Platforms:
   Alright let us move on to cloud platforms, Amazon Web Services (AWS) has been the go-to among professionals since 2023 and the same in 2024 by 52.2%. It is like a boss of cloud platforms, over 90% of Fortune 100 companies use AWS due to its unmatched scalability, reliability, and suite of services. But hold on, Microsoft Azure with 29.7% and Google Clouds with 24.9% are climbing as their numbers have gotten better for a few years. Google Cloud is a top choice for developers and companies looking to harness the power of AI in their projects just like the cool new kid on the block that everyone is talking about.
 
-- ##### Web Frameworks:
+- #### Web Frameworks:
   According to the survey of 2024, Node.js has peaked with 40.8% of the developers using it. React also maintains a strong position with 39.5% usage. On the other hand, if we look at professional developers React is new Node.js for them. jQuery, though not as modern as newer frameworks, is still used by 22.5% of experienced developers. But let’s be real, if you are deciding between React and jQuery, go with React. There are way more job opportunities because, honestly, the average jQuery site probably just has one part-time dev working on it. For beginners, React is excellent for front-end development, while Node.js offers the advantage of using JavaScript for both front-end and back-end development. How cool is that?
 
-- ##### Integrated development environment:
+- #### Integrated development environment:
   Now, let’s talk about IDEs, where all the coding magic happens. It is not surprising that Visual Studio Code has won for IDE with 73.6% and professionals and learners alike are all over it. Visual Studio(sibling to VScode) follows as the second most popular IDE, used by 29.3%, and IntelliJ IDEA, favored by 26.8% of developers, mainly those who love working with Java. 
 
-- ##### Synchronous tools (Unsung heroes):
+- #### Synchronous tools (Unsung heroes):
   These tools are the apps we use for communication, share ideas, and sometimes send memes to keep spirits high. Microsoft Teams is the most popular among developers, with a usage rate of 53.1% and this number gets bigger every year. Next up is Slack with a 43.9% usage rate. It is super popular but comes with a catch, it is a paid model. This means professional developers and organizations often weigh the cost before diving in. Just like that fancy coffee shop you love but can not afford to visit every day. However, in the learners’ section, Discord is the most popular tool at 70.6%. I am pretty sure most of them are gamers and I think it is a cool hangout spot where you can chat, learn, and maybe play a game.
 
-- ##### AI Search Tools:
+- #### AI Search Tools:
   In recent years, AI-powered search and developer tools have revolutionized the way developers work, making everything from coding to complex problem-solving way easier. ChatGPT leads the pack with an impressive 82.1% usage rate, offering a free option and honestly, it is like having a coding buddy who is always there to help you out. But there’s more! Google Gemini is rapidly gaining attraction, particularly among learners. Its integration into development workflows is spot-on, making it a powerful tool for both new and experienced developers.
 
   Now, 40.3% of professional developers have a somewhat neutral stance on the accuracy of AI tools. Meanwhile, those who are learning to code tend to trust AI tools more, sometimes a bit too much (including me). It is important to remember that while AI tools are awesome, they are not flawless. We should use them to assist us but not rely on them completely. It is good to know that developers who currently use AI tools mainly rely on them for writing code (82%). That is a huge percentage!
